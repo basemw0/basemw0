@@ -11,8 +11,10 @@
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=basemw0&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   <br/>
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=basemw0&theme=dark&hide_border=false" alt="Streak Stats"/>
   <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basemw0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/>
 </p>
 
