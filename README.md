@@ -1,5 +1,4 @@
-# 💫 About Me: ![Profile Views](https://komarev.com/ghpvc/?username=basemw0&color=blue)
-
+# 💫 About Me:                                                                                                                               ![Profile Views](https://komarev.com/ghpvc/?username=basemw0&color=blue)
 🚗 Currently: I’m building a vehicle renting database system using SQL—keeping things organized and fast.<br>🤝 Collaboration: I love teaming up on AI/ML projects, cloud computing, and full-stack development challenges.<br>🛠 Need a hand with: Tweaking database performance, scaling web apps, and leveling up on AWS cloud skills.<br>🌱 Learning: Full-stack JavaScript, AWS cloud tech, and the latest in database management.<br>⚡ Fun fact: I once built a photobooth that took pictures and emailed them automatically… because why not? 
 
 
