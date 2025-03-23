@@ -1,7 +1,7 @@
 # 💫 About Me:                                                                                                                           
 🚗 Currently: I’m building a vehicle renting database system using SQL—keeping things organized and fast.<br>🤝 Collaboration: I love teaming up on AI/ML projects, cloud computing, and full-stack development challenges.<br>🛠 Need a hand with: Tweaking database performance, scaling web apps, and leveling up on AWS cloud skills.<br>🌱 Learning: Full-stack JavaScript, AWS cloud tech, and the latest in database management.<br>⚡ Fun fact: I once built a photobooth that took pictures and emailed them automatically… because why not? 
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=basemw0&color=blue)   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/basemw_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basem-walid-42658b229) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basemwalid44@gmail.com) 
 
@@ -29,4 +29,4 @@
   </picture>
 </div>
  
-#![Profile Views](https://komarev.com/ghpvc/?username=basemw0&color=blue)   
+
