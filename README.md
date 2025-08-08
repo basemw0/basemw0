@@ -1,5 +1,5 @@
 # About Me:                                                                                                                           
-🚗 Currently: I’m building a vehicle renting database system using SQL-keeping things organized and fast.<br>🤝 Collaboration: I love teaming up on AI/ML projects, cloud computing, and full-stack development challenges.<br>🛠 Need a hand with: Tweaking database performance, scaling web apps, and leveling up on AWS cloud skills.<br>🌱 Learning: Full-stack JavaScript, AWS cloud tech, and the latest in database management.<br>
+Currently: I’m building a 2048 online game with a multiplayer mode<br>Collaboration: I love teaming up on AI/ML projects, cloud computing, and full-stack development challenges.<br>🛠 Need a hand with: Tweaking database performance, scaling web apps, and leveling up on AWS cloud skills.<br>🌱 Learning: Full-stack JavaScript, AWS cloud tech, and the latest in database management.<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=basemw0&color=blue)   
 ## 🌐 Socials:
