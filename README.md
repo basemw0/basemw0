@@ -1,6 +1,7 @@
 # About Me:                                                                                                                           
-Currently: I’m building a 2048 online game with a multiplayer mode<br>Collaboration: I love teaming up on AI/ML projects, cloud computing, and full-stack development challenges.<br> Need a hand with: Tweaking database performance, scaling web apps, and leveling up on AWS cloud skills.<br> Learning: Full-stack JavaScript, AWS cloud tech, and the latest in database management.<br>
-
+Currently: Developing a freelance ordering platform for a local pizza kitchen. <br>
+Collaboration: I love teaming up on MERN stack projects, Data Engineering & ML<br>
+Learning: Deepening my grasp of pyspark, databricks , the MERN stack, network protocols, and real-world software deployment.<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=basemw0&color=blue)   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/basemw_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basem-walid-42658b229) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basemwalid44@gmail.com) 
