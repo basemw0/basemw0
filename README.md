@@ -4,6 +4,7 @@ Currently: Developing An Ai-powered learning Assistant "Baseetai.com"
 Collaboration: I love teaming up on MERN stack projects, Data & Ai Engineering & ML<br>
 
 Learning: Deepening my grasp of Agentic AI , pyspark, databricks , the MERN stack, network protocols, and real-world software deployment.<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=basemw0&color=blue)   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/basemw_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basem-walid-42658b229) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basemwalid44@gmail.com) 
