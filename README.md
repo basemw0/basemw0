@@ -1,6 +1,8 @@
 # About Me:                                                                                                                           
 Currently: Developing An Ai-powered learning Assistant "Baseetai.com"
+
 Collaboration: I love teaming up on MERN stack projects, Data & Ai Engineering & ML<br>
+
 Learning: Deepening my grasp of Agentic AI , pyspark, databricks , the MERN stack, network protocols, and real-world software deployment.<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=basemw0&color=blue)   
 ## 🌐 Socials:
