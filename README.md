@@ -15,9 +15,6 @@ Learning: Deepening my grasp of Agentic AI , pyspark, databricks , the MERN stac
 <p align = "center">
 
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=basemw0&theme=dark&hide_border=false" alt="Streak Stats"/>
-  <br/>
-  <br/>
   
 </p>
 
